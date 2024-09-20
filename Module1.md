@@ -148,9 +148,11 @@ And the technology that's used for dynamic content is JavaScript which we'll see
 Looking ahead at the next couple of lessons, we'll start to look at how does a browser request a web page or some resource on the World Wide Web?
 What does it look like when it sends a request and what does it look like when the content comes back?
 Once it's received, how does a web browser display it?
+
 And then later in the course, how do you write your own programs to generate dynamic content in the browser?
-•	Developing Web Pages with HTML
-•	How a Web Browser Works
+  - Developing Web Pages with HTML
+  - How a Web Browser Works
+
 In the previous lesson, we introduced some basic concepts, the internet and the World Wide Web, and I mentioned the Uniform Resource Locator, or URL.  Which is the Unique address for some piece of content, some data, some resource on the World Wide Web.
 I also mentioned that there is something known as the protocol, which is the structure of the content or communication between devices, and we'll start to look into that a little bit more in this lesson.
 In the previous lesson, I showed a diagram of the internet, this completely connected graph of devices.
@@ -203,7 +205,9 @@ HTTP is a plain-text, human-readable protocol that's used for exchanging data on
  
 What that means is that if you could open up your web browser and look at the data that's going back and forth, it's just text.
 You would be able to read it.
+
 HTTP is based on the client-server model.
+
 The client sends a request, which is not only the content that its asking for, but also information about the client.
 The server sends back the requested resource or content or page or data, but also information about the server itself.
 If we could look at all of that content that's going back and forth between the server, and the client, the request, and the response we'd see something that looks like this.
@@ -215,11 +219,17 @@ Here is the headers of the response. This is information that the server is send
 Let's look at more detail about an HTTP request.
  
 The first line of the request is always a verb.  The verb tells the server what is the action that the client is hoping to perform.
+
 It could be GET, which is saying please give me this resource.  I want to get this resource.
+
 The verb can be head which is I just want the header information not any particular resource or post.  Which is to create a resource or create new content on the server.
+
 Following the verb is the argument and the argument for instance in a get request which we'll see in just a second Is what is the name of the resource or content that's being requested.
+
 On that first line on the HTTP request after the verb and the argument is always the protocol and these days generally the protocol is HTTP/1.1.
+
 The client may send other information about itself, other information about the request book, that's the most important part.
+
 Is the verb, the argument and the protocol.
  
 Let's look at an example of an HTTP request in more detail.
@@ -231,18 +241,29 @@ The first thing in that line is the verb.
 In this case, it's GET asking the server, please give me this resource.  I would like to get this resource.
 
 The second thing is the argument or the identifier.
+
 Here is some type of URI, some type of identifier that's the name of the resource or the page on the server.
+
 And then last on this first line is the HTTP version.
+
 Following that is some request headers.
+
 It could be things like where is this client?
+
 What is the type of web browser it's using, etc?
+
 There's always a blank line after the headers, and then any other data that the client wants to send to the server as part of the request.
+
 So, the server has received that HTTP request.  It knows the protocol.
+
 It knows that they are talking HTTP one dot one, in this case, so it knows what is being requested.
+
 And now it can handle that request and send back some sort of HTTP response.
  
 The first line of an HTTP response always includes the protocol and the status code.
+
 And there are different categories of status codes which could be just some information.
+
 They're successfully giving you back the content, or successfully servicing the request.
 It could redirect There can be types of errors  
  
