@@ -24,23 +24,24 @@ algorithms to design high-quality software.
 This program begins with the basic concepts of Java, one of the industry’s most commonly used programming languages, and progresses into best practices in modern software development to developing efficient algorithms using sophisticated data structures for complex computational tasks.
 
 Finally, you will develop interactive and data-driven web apps using JavaScript.
-Web Programming Basics
 
-a)	Basics of the World Wide Web
-b)	Developing Web Pages with HTML
+### Web Programming Basics
 
-I.	Using JavaScript to Create Dynamic, Data-Driven Web Pages
-a)	JavaScript Basics
-b)	Using JavaScript in Web Pages
+#### a)	Basics of the World Wide Web
+#### b)	Developing Web Pages with HTML
 
-II.	Client-Side Frameworks for Developing Modular Web Page Components
-a)	Developing Web Applications with React
-b)	Advanced Component Design for React
-c)	Creating Data-Driven Web Content with D3.js
+### I.	Using JavaScript to Create Dynamic, Data-Driven Web Pages
+#### a)	JavaScript Basics
+#### b)	Using JavaScript in Web Pages
 
-III.	Building Scalable Web Apps with Server-Side JavaScript
-a)	Developing Web Applications with Node.js
-b)	Databases and Web Applications
+### II.	Client-Side Frameworks for Developing Modular Web Page Components
+#### a)	Developing Web Applications with React
+#### b)	Advanced Component Design for React
+#### c)	Creating Data-Driven Web Content with D3.js
+
+### III.	Building Scalable Web Apps with Server-Side JavaScript
+#### a)	Developing Web Applications with Node.js
+#### b)	Databases and Web Applications
 
 ### Syllubus
 #### Course Overview
@@ -1293,10 +1294,15 @@ And you can get an idea of how the elements in the Bootstrap examples are put th
 For instance, here in the example's page for Bootstrap, I see the different buttons.
  
 And maybe in my webpage, I want this sort of button, this big blue button with the grey border around it.
+
 I can right-click, or get the context menu.
+
 I can choose Inspect.
+
 And that will open up in Google Chrome the Inspect window.
+
 And I can see that it's highlighted here, and here I'll circle it.
+
 It tells me that this element that I like is a button.
 It's in type button.
 And it's in these three Bootstrap classes, the btn for button.
@@ -1310,24 +1316,33 @@ In this lesson, we looked at responsive web design using libraries, for instance
 In the next part of the course, we'll start looking at JavaScript.
 JavaScript the third important technology in web programming that allows us to create dynamic content within our HTML pages.
 
-Introduction to Week 2
+## Introduction to Week 2
+
 Starting this week, we'll be looking at JavaScript, one of the world's most popular programming languages.
+
 We'll start with the core features of the language and then we'll see how we can use JavaScript to access HTML elements and create dynamic web content.
 
-
-Introduction to JavaScript
+### Introduction to JavaScript
 Last week we started looking at two of the key technologies for web development, HTML and CSS.
+
 HTML allows us to specify the structure of the content in our web page and
+
 CSS allows us to specify its appearance using style attributes.
+
 However, both HTML and CSS only allow for static content.
+
 That is, when the web browser renders them, they don't change regardless of what happens within the context of that web page.
  
 So this week we'll start looking at how do we create dynamic content in the web page and we're going to start looking at the programming language JavaScript.
  
 JavaScript was developed in the mid 1990s when the web browsers started to take off.
+
 It is clear that there needed to be some way of rendering dynamic content in the browser.
+
 JavaScript was originally called LiveScript because the Java programming language was becoming so popular the name was changed and it stuck.
+
 Now JavaScript is one of the most popular programming languages in the world as you surely know which is why you're taking this class perhaps.
+
 And it runs on just about every browser and on many types of devices.
  
 There are three ways that we can develop in JavaScript.
@@ -1371,52 +1386,27 @@ You may see slight differences depending on, for instance, which version of Java
 But we'll try to stick to standard JavaScript so that everything will be the same.
 
 JavaScript Variables
-
-
 Abcdefghijklmnopqrstuvwxyz1234567890
-
-
 xxyyyzzzz
-
-
 xxyyyzzzz
-
-
 xxyyyzzzz
-
-
 xxyyyzzzz
-
-
 xxyyyzzzz
-
-
 
 II.	Using JavaScript to Create Dynamic, Data-Drive Web Pages
 
-
 a)	JavaScript Basics
-
-
 
 b)	Using JavaScript in Web Pages
 
 III.	Client-Side Frameworks for Developing Modular Web Page Components
 b)	Developing Web Applications with React
 
-
-
 c)	Advanced Component Design for React
 
-
 d)	Creating Data-Driven Web Content with D3.js
-
 
 IV.	Building Scalable Web Apps with Server-Side JavaScript
 a)	Developing Web Applications with Node.js
 
-
-
 b)	Databases and Web Applications
-
-
