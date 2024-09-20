@@ -1,50 +1,77 @@
 # Web Programming Basics
-Programming for the Web with JavaScript (PennX SD4x)
+## Programming for the Web with JavaScript (PennX SD4x)
  
-JavaScript is the programming language of the World Wide Web.
-As a professional web software developer, you will not only need to know how to program in this simple yet powerful language, but you will need to understand the fundamentals of how data is exchanged on the World Wide Web (WWW) and what tools and frameworks are available to you for creating robust, interactive web applications.
-This course, part of the CS Essentials for Software Development Professional Certificate series, provides an introduction to modern web development using JavaScript. In addition to exploring the basics of web page creation using HTML and CSS, you will learn advanced web page layout and responsive design tools such as Bootstrap. You will also learn how browsers represent a web page data using the Document Object Model (DOM) and how to develop dynamic, interactive web pages using JavaScript in the browser. Beyond fundamental JavaScript syntax and advanced language features such as callbacks, events, and asynchronous programming, you will work with jQuery, which provides functionality for simplified DOM manipulation and event handling.
-This course will also introduce you to modern web frameworks and component-based libraries such as React.js for efficiently developing modular web page components, and D3.js for creating data-driven documents. We will also teach you how to represent and exchange data using JavaScript Object Notation (JSON), and how to access RESTful APIs on the web.
-Server-side JavaScript is becoming more prevalent in the industry, with web frameworks such as Node.js and Express making it simple to create and deploy complex, data-driven web applications. This course will prepare you to use such frameworks and show you how to integrate them with NoSQL databases such as MongoDB.
+### JavaScript is the programming language of the World Wide Web.
+
+As a professional web software developer, you will not only need to know how to program in this simple yet powerful language, but you will need to understand the fundamentals of how data is exchanged 
+on the World Wide Web (WWW) and what tools and frameworks are available to you for creating robust, interactive web applications.
+
+This course, part of the CS Essentials for Software Development Professional Certificate series, provides an introduction to modern web development using JavaScript. In addition to exploring the
+basics of web page creation using HTML and CSS, you will learn advanced web page layout and responsive design tools such as Bootstrap. You will also learn how browsers represent a web page data using
+the Document Object Model (DOM) and how to develop dynamic, interactive web pages using JavaScript in the browser. Beyond fundamental JavaScript syntax and advanced language features such as 
+callbacks, events, and asynchronous programming, you will work with jQuery, which provides functionality for simplified DOM manipulation and event handling.
+
+This course will also introduce you to modern web frameworks and component-based libraries such as React.js for efficiently developing modular web page components, and D3.js for creating data-driven 
+documents. We will also teach you how to represent and exchange data using JavaScript Object Notation (JSON), and how to access RESTful APIs on the web.
+
+Server-side JavaScript is becoming more prevalent in the industry, with web frameworks such as Node.js and Express making it simple to create and deploy complex, data-driven web applications. This 
+course will prepare you to use such frameworks and show you how to integrate them with NoSQL databases such as MongoDB.
 Computer Science Essentials for Software Development Professional Certificate program (4 courses)
-In the professional certificate program, you will learn essential computer science concepts for software development ranging from the fundamentals of object-oriented programming to using efficient algorithms to design high-quality software.
+
+In the professional certificate program, you will learn essential computer science concepts for software development ranging from the fundamentals of object-oriented programming to using efficient 
+algorithms to design high-quality software.
+
 This program begins with the basic concepts of Java, one of the industry’s most commonly used programming languages, and progresses into best practices in modern software development to developing efficient algorithms using sophisticated data structures for complex computational tasks.
+
 Finally, you will develop interactive and data-driven web apps using JavaScript.
 Web Programming Basics
+
 a)	Basics of the World Wide Web
 b)	Developing Web Pages with HTML
+
 I.	Using JavaScript to Create Dynamic, Data-Driven Web Pages
 a)	JavaScript Basics
 b)	Using JavaScript in Web Pages
+
 II.	Client-Side Frameworks for Developing Modular Web Page Components
 a)	Developing Web Applications with React
 b)	Advanced Component Design for React
 c)	Creating Data-Driven Web Content with D3.js
+
 III.	Building Scalable Web Apps with Server-Side JavaScript
 a)	Developing Web Applications with Node.js
 b)	Databases and Web Applications
 
-Syllubus
-Course Overview
+### Syllubus
+#### Course Overview
 JavaScript is the programming language of the World Wide Web.
-As a professional web software developer, you will not only need to know how to program in this simple yet powerful language, but you will need to understand the fundamentals of how data is exchanged on the World Wide Web (WWW) and what tools and frameworks are available to you for creating robust, interactive web applications.
-This course, part of the CS Essentials for Software Development Professional Certificate series, provides an introduction to modern web development using JavaScript. In addition to exploring the basics of web page creation using HTML and CSS, you will learn advanced web page layout and responsive design tools such as Bootstrap. You will also learn how browsers represent a web page data using the Document Object Model (DOM) and how to develop dynamic, interactive web pages using JavaScript in the browser. Beyond fundamental JavaScript syntax and advanced language features such as callbacks, events, and asynchronous programming, you will work with jQuery, which provides functionality for simplified DOM manipulation and event handling.
-This course will also introduce you to modern web frameworks and component-based libraries such as React for efficiently developing modular web page components, and D3.js for creating data-driven documents. We will also teach you how to represent and exchange data using JavaScript Object Notation (JSON), and how to access RESTful APIs on the web.
-Server-side JavaScript is becoming more prevalent in the industry, with web frameworks such as Node.js and Express making it simple to create and deploy complex, data-driven web applications. This course will prepare you to use such frameworks and show you how to integrate them with NoSQL databases such as MongoDB.
-Prerequisites
-•	Basic knowledge of computer programming (variables, functions, control flow)
-•	Knowledge of core data structures (arrays, lists, sets, trees)
-Course Outline
-•	Week 1 - Web Programming Basics: how web browsers and servers communicate using HTTP; creating static web content with HTML and CSS
-•	Week 2 - Using JavaScript to Create Dynamic Web Pages: basics of the JavaScript programming language; accessing HTML elements from embedded JavaScript using the DOM and jQuery
-•	Week 3 - Client-Side Frameworks for Developing Modular Web Page Components: component-based web app development using React; creating data-driven documents with D3.js
-•	Week 4 - Building Scalable Web Apps with Server-Side JavaScript: generating dynamic content on the server using Node.js and Express; storing and retrieving data in MongoDB; developing an API for the web
+As a professional web software developer, you will not only need to know how to program in this simple yet powerful language, but you will need to understand the fundamentals of how data is exchanged 
+on the World Wide Web (WWW) and what tools and frameworks are available to you for creating robust, interactive web applications.
 
-I.	Web Programming Basics
+This course, part of the CS Essentials for Software Development Professional Certificate series, provides an introduction to modern web development using JavaScript. In addition to exploring the basics of web page creation using HTML and CSS, you will learn advanced web page layout and responsive design tools such as Bootstrap. You will also learn how browsers represent a web page data using the Document Object Model (DOM) and how to develop dynamic, interactive web pages using JavaScript in the browser. Beyond fundamental JavaScript syntax and advanced language features such as callbacks, events, and asynchronous programming, you will work with jQuery, which provides functionality for simplified DOM manipulation and event handling.
+
+This course will also introduce you to modern web frameworks and component-based libraries such as React for efficiently developing modular web page components, and D3.js for creating data-driven documents. We will also teach you how to represent and exchange data using JavaScript Object Notation (JSON), and how to access RESTful APIs on the web.
+
+Server-side JavaScript is becoming more prevalent in the industry, with web frameworks such as Node.js and Express making it simple to create and deploy complex, data-driven web applications. This course will prepare you to use such frameworks and show you how to integrate them with NoSQL databases such as MongoDB.
+
+#### Prerequisites
+ •	Basic knowledge of computer programming (variables, functions, control flow)
+ •	Knowledge of core data structures (arrays, lists, sets, trees)
+
+#### Course Outline
+ •	Week 1 - Web Programming Basics: how web browsers and servers communicate using HTTP; creating static web content with HTML and CSS
+ •	Week 2 - Using JavaScript to Create Dynamic Web Pages: basics of the JavaScript programming language; accessing HTML elements from embedded JavaScript using the DOM and jQuery
+ •	Week 3 - Client-Side Frameworks for Developing Modular Web Page Components: component-based web app development using React; creating data-driven documents with D3.js
+ •	Week 4 - Building Scalable Web Apps with Server-Side JavaScript: generating dynamic content on the server using Node.js and Express; storing and retrieving data in MongoDB; developing an API for 
+ the web
+
+### I.	Web Programming Basics
 This week we'll start with the basics of web programming by looking at how the worldwide web works.
 We'll see how a browser communicates with a server using HTTP.
 And we'll explore the fundamentals of webpage creation using HTML and CSS.
-a)	Basics of the World Wide Web
+
+#### a)	Basics of the World Wide Web
+
 You're watching this video, probably using some sort of web browser. 
 In the browser, there's the video itself.
 Maybe up at the top there's some images, off to the side is some text.
@@ -145,21 +172,32 @@ Nowadays there are five popular web browsers; Chrome, Safari, Opera, Internet Ex
 Web browser is a piece of software that is used to access and display content that it finds on the world wide web, and let you navigate from one location, one document to another.
 The browser contains three main components, and these are the three, I suppose, cornerstones of web content, and the three things we're going to look at in this course.
 The first main component of the web browser is known as the 
+
 1)	Rendering Engine.  The rendering engine is what decides what to display and how to display it within the web browser.  Thus, things like the presentation, the ordering of things, the content itself, and that uses technologies HTML and CSS, which we're going to see later in this week of the course. 
+
 The next part of the browser is known as the 
+
 2)	JavaScript Engine.  That’s the dynamic part.  That's the part that is running code in your browser on your computer, or on your device.  That's creating dynamic content, modifying content and that uses JavaScript, which we'll see in the second part of this course.
 How does a web browser work?
  
 The most important thing to understand for us as the web programmers or web developers is the protocol HTTP or Hypertext Transfer Protocol.
+
 HTTP is how the web browser communicates with other devices, other computers, on the World Wide Web To request and transfer documents.
+
 HTTP is a client server protocol.
+
 There's some computer, which is known as the client.
+
 Here, we have a little diagram of a laptop. It could be your mobile device. It could be your refrigerator. But, something that's on the world wide web. 
+
 And, there's some server.  The server is generally some big computer that's Somewhere else, on the Internet, and they're connected of course by the Internet through various connections and devices along the way.
  
 In HTTP the client initiates the conversation or the transfer of the data by sending what's known as an HTTP request, the server is out there listening for incoming request and the client sends the request saying Server, can you please give me some data?
+
 The server then decides what to do with that request and sends back what's known as the HTTP response.
+
 The HTTP response includes the content that the client requested, and then the client figures out what to do with that content.
+
 HTTP is a plain-text, human-readable protocol that's used for exchanging data on the web.
  
 What that means is that if you could open up your web browser and look at the data that's going back and forth, it's just text.
@@ -184,9 +222,13 @@ The client may send other information about itself, other information about the 
 Is the verb, the argument and the protocol.
  
 Let's look at an example of an HTTP request in more detail.
+
 The first line is always the request line. That includes the three important parts that I just mentioned.
+
 The first thing in that line is the verb.
+
 In this case, it's GET asking the server, please give me this resource.  I would like to get this resource.
+
 The second thing is the argument or the identifier.
 Here is some type of URI, some type of identifier that's the name of the resource or the page on the server.
 And then last on this first line is the HTTP version.
