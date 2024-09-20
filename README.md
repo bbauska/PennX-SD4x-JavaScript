@@ -100,6 +100,3 @@ In completing this assignment, you will:
 ### I completed the course with a 100% score.
 
 ### Certificate: https://courses.edx.org/certificates/0e8031533eb846e6a3356c88a7404298
-
-
-# Lance Soares
